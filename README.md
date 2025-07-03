@@ -137,10 +137,7 @@ This solution is deployable via a **Dockerized REST API** and a **Streamlit web 
 
 ---
 
-## 📷 Screenshots & Demo
-
-Coming Soon...
-
+ 
 ---
 
 ## 📄 License
